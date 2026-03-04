@@ -1,0 +1,34 @@
+.texttheme {
+  color: #004184 !important;
+}
+.icontheme1 {
+  width: 70px;
+  height: 70px;
+  border-radius: 40%;
+  padding: 15px;
+  background-color: rgba(190,245,116, 0.5);
+}
+.icontheme2 {
+    width: 70px;
+    height: 70px;
+    border-radius: 40%;
+    padding: 10px;
+    background-color: rgba(185,236,240, 0.5);
+  }
+
+  .icontheme3 {
+    width: 70px;
+    height: 70px;
+    border-radius: 40%;
+    padding: 10px;/* rgb(219,112,147) */
+    background-color: rgba(251,191,255, 0.5);
+  }
+
+  .icontheme4 {
+    width: 70px;
+    height: 70px;
+    border-radius: 40%;
+    padding: 10px;
+    background-color: rgba(255,255,0, 0.5);
+  }
+  
