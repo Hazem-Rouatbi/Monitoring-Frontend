@@ -6,7 +6,7 @@ import { logoutUser } from "../actions/auth";
 const instance = axios.create({
   timeout: 100000,
   headers: { Authorization: 'Bearer ' + localstorage.loadAccess() },
-  baseURL: `http://localhost:5566/api`
+  baseURL: `https://monitoring-api.paypos.tn/api`
 })
 
 const AxiosInterceptor = ({ children }) => {
